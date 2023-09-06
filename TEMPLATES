@@ -8,8 +8,6 @@ WEB/VR Моделі атому водню і молекули води.
 Секвенсія звукових хвиль і проектування системи вимірів через паттерналізм і ритмічність.
 Швидке перебирання масивів, пошук у масивах даних, і вступ до "Big Data" і "Deep Learning". 
 
-
-
 <!-- ChatGPT: Я розумію, що вам потрібно зберігати декілька значень 
 і зашифрованої інформації у local storage та мати можливість розшифровувати її 
 з використанням паролю або іншого параметра. Ось як ви можете це зробити: -->
@@ -22,6 +20,7 @@ WEB/VR Моделі атому водню і молекули води.
   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.3.0/crypto-js.js"></script>
 </head>
 <body>
+
   <h1>Зашифрування та Розшифрування з Local Storage</h1>
   <label for="password">Пароль або ключ:</label>
   <input type="password" id="password">
@@ -62,9 +61,6 @@ WEB/VR Моделі атому водню і молекули води.
       }
     };
   </script>
-</body>
-</html>
-
 <!-- У цьому прикладі ми шифруємо та зберігаємо об'єкт contentToEncrypt 
 в local storage під ключем "encryptedData". Потім ми можемо розшифрувати ці 
 дані з використанням введеного пароля або ключа. Декілька значень можна зберігати
@@ -72,4 +68,5 @@ WEB/VR Моделі атому водню і молекули води.
  
 Free Research Preview. ChatGPT may produce inaccurate information about people,
 places, or facts. ChatGPT August 3 Version -->
- 
+</body>
+</html> 
